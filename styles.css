@@ -1,0 +1,40 @@
+body {
+        font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Tangerine", cursive;
+}
+
+h2 {
+    color: #3a4686;
+}
+
+header h2 {
+    color: #190e6e;
+}
+
+footer {
+    background-image: linear-gradient(#143329, rgb(7, 39, 180));
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #130068, #7661d1, #922e10);
+    color: rgb(255, 255, 255);
+    margin: 0;
+}
+
+.row-content {
+    padding: 50px 0;
+}
+
+.navbar-dark {
+    background-color: #901CAD;
+}
+
+.carousel-caption {
+    background-color: rgba(, rgb(163, 146, 240), blue, alpha);
+
+}
